@@ -2,7 +2,7 @@
 
 ### Angular9-PrimeNG-Button for Angular 9 with Prime NG Library
 
-![](https://github.com/pawankv89/Angular9-PrimeNG-Button/blob/master/images/screen_1.png)
+![](https://github.com/pawankv89/Angular9-PrimeNG-Button/blob/main/images/screen_1.png)
 
 ## Version 1.0
 This Sample for Learning Prime NG Button Module.

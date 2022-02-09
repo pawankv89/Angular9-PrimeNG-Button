@@ -26,6 +26,8 @@ OS: Darwin x64 19.4.0
 
 https://www.primefaces.org/primeng/showcase/#/button
 
+ng add @angular/material
+
 ## setup
 
 1) Add primeng & primeicons in dependencies inside package.json
